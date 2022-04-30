@@ -1,7 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">lectsia_alina</string>
     <string name="text2_bones">bones</string>
-    <string name="text1_bones">bones</string>
     <string name="alina1">alina</string>
     <string name="alina3">alina</string>
     <string name="alina4">alina</string>
